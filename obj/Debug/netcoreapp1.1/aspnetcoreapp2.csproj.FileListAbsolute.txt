@@ -1,0 +1,8 @@
+c:\dev\livre\aspnetcoreapp2\bin\Debug\netcoreapp1.1\aspnetcoreapp2.deps.json
+c:\dev\livre\aspnetcoreapp2\bin\Debug\netcoreapp1.1\aspnetcoreapp2.runtimeconfig.json
+c:\dev\livre\aspnetcoreapp2\bin\Debug\netcoreapp1.1\aspnetcoreapp2.runtimeconfig.dev.json
+c:\dev\livre\aspnetcoreapp2\bin\Debug\netcoreapp1.1\aspnetcoreapp2.dll
+c:\dev\livre\aspnetcoreapp2\bin\Debug\netcoreapp1.1\aspnetcoreapp2.pdb
+c:\dev\livre\aspnetcoreapp2\obj\Debug\netcoreapp1.1\aspnetcoreapp2.AssemblyInfo.cs
+c:\dev\livre\aspnetcoreapp2\obj\Debug\netcoreapp1.1\aspnetcoreapp2.dll
+c:\dev\livre\aspnetcoreapp2\obj\Debug\netcoreapp1.1\aspnetcoreapp2.pdb
